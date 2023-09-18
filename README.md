@@ -1,16 +1,7 @@
-# getx_template
+# GetX Template
 
-A new Flutter project.
+This is a teamplate for [GetX package](https://pub.dev/packages/get) for State management, State Manager routing and Dependency Injection (bindings) for Flutter.
+I'm using MVVM (Model View ViewModel) architectural pattern here. For network call we are using [Dio package](https://pub.dev/packages/dio)  and followed the recommended folder structure of GetX.
+## Architecture: MVVM
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![mvvm](https://user-images.githubusercontent.com/3769029/137336079-1f3384d0-b9d6-4462-a2c4-4a3d2cc77e8a.png)
